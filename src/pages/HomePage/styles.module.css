@@ -1,0 +1,52 @@
+.blackbar {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  color: rgb(250, 235, 215);
+  background-color: black;
+  border-radius: 5% 5% 0 0;
+  height: 50px;
+  width: 1443px;
+}
+
+.dashboard {
+  border: 2px solid black;
+  height: 520px;
+  width: 1440px;
+  max-width: 1440px;
+  max-height: 520px;
+}
+
+.searchbar_div {
+  border: 2px solid black;
+  margin: 10px;
+  padding-inline: 30px;
+  margin-inline: 15px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 1340px;
+  max-width: 1340px;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.innercontainer {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.filterbox_div {
+  width: 200px;
+  min-width: 200px;
+}
+
+.productsbox_div {
+  width: 1235px;
+  min-width: 600px;
+}

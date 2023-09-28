@@ -1,0 +1,13 @@
+.container{
+    border: 2px solid black;
+    margin:5px;
+    margin-inline: 15px;
+    max-height: 410px;
+    height: 410px;
+    overflow-y: auto;
+    margin-right: 18px;
+}
+.text{
+    margin-left: 3px;
+    font-size: smaller;
+}
